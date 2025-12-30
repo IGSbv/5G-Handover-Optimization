@@ -43,4 +43,8 @@ The simulation generates several plots:
 
 ## **📄 License**
 
+<<<<<<< HEAD
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+[MIT](https://choosealicense.com/licenses/mit/)
+>>>>>>> 10025c0eedc9d2353328718cccfa5acf6228d734

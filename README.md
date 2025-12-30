@@ -41,8 +41,7 @@ The simulation generates several plots:
 * **Load Balancing:** Monitors real-time user count per tower vs. capacity limits.  
 * **Comparative Study:** Proves the necessity of Hysteresis in reducing network overhead.
 
-## **📄 License**
+## 📄 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-=======
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+

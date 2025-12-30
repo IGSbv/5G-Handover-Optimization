@@ -23,10 +23,11 @@ In modern 5G networks, the "Ping-Pong Effect"—where a device rapidly switches 
 ## **🛠️ Installation & Usage**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/yourusername/5G-Handover-Sim.git\](https://github.com/yourusername/5G-Handover-Sim.git)  
+   git clone https://github.com/yourusername/5G-Handover-Sim.git
+
    pip install numpy matplotlib
 
-2. **Run the Pipeline:**  
+3. **Run the Pipeline:**  
    * python mobility\_engine\_v2.py: Generates user paths.  
    * python physics\_engine.py: Calculates RSSI signal strengths.  
    * python network\_controller.py: Executes handover logic and generates load graphs.  
